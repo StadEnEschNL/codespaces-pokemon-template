@@ -1,0 +1,3 @@
+from classes import *
+
+p = Pokemon() # Uiteraard niet volledig, maar een begin...
