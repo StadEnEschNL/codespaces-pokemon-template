@@ -1,0 +1,20 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/devcontainers/images/tree/main/src/javascript-node
+{
+    "name": "StadEnEsch Basic Python template",
+  
+    // Configure tool-specific properties.
+    "customizations": {
+      // Configure properties specific to VS Code.
+      "vscode": {
+        // Add the IDs of extensions you want installed when the container is created.
+        "extensions": [
+          "ms-vsliveshare.vsliveshare",
+          "ms-python.python",
+          "ms-python.debugpy",
+          "ms-python.vscode-pylance"
+        ]
+      }
+    }
+  }
+  
